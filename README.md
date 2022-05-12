@@ -1,4 +1,4 @@
-👋 Hi, I’m Thomas Le a back-end software developer working on becoming full-stack. I currently have a Bachelors in Operations and Information Management with a
+👋 Hi, I’m Thomas Le and I'm a back-end software developer working on becoming full-stack. I currently have a Bachelors in Operations and Information Management with a
 minor in Information Technology.
 
 👀 I’m interested in learning more coding languages and programs because it keeps my mind busy and satiated!
